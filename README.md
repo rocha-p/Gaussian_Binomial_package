@@ -33,9 +33,9 @@ Python version: `3.8.5`
 
 In order to use the package you need to install and import it. You can do it as follows:
 
-* Install package `pip install gaussian_binomial_dist`
-* Import Gaussian distribution `from gaussian_binomial_dist import Gaussian`
-* Import Binomial distribution `from gaussian_binomial_dist import Binomial`
+* Install package `pip install dist-binom-gauss`
+* Import Gaussian distribution `from dist-binom-gauss import Gaussian`
+* Import Binomial distribution `from dist-binom-gauss import Binomial`
 
 
 
